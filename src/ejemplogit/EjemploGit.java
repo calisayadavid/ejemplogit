@@ -21,7 +21,7 @@ public class EjemploGit {
         b=123;
         c=a+b;
         System.out.println("la suma es:" + c);
-        
+        System.out.println("nueva linea");
     }
     
 }
