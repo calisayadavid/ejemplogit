@@ -22,6 +22,7 @@ public class EjemploGit {
         c=a+b;
         System.out.println("la suma es:" + c);
         System.out.println("nueva linea");
+        System.out.println("modif desde una rama de desarrollo");
     }
     
 }
